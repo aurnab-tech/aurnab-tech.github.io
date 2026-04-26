@@ -1,17 +1,17 @@
 {
   "profile": {
-    "name": "Arif Rahman",
-    "title": "Senior Mobile Application Engineer",
+    "name": "Aurnab Das",
+    "title": "Senior Software Engineer",
     "tagline": "Crafting high-performance mobile experiences with scalable architecture",
     "summary": "6+ years of experience building production-grade Flutter applications for Android & iOS, specializing in performance optimization, automation, and scalable system design.",
-    "email": "arif.dev@example.com",
+    "email": "das.aurnab@gmail.com",
     "location": "Dhaka, Bangladesh",
     "resume_url": "/assets/resume.pdf",
-    "message_url": "",
+    "message_url": "https://discord.com/api/webhooks/1481578610610667624/rsOZ3NSNvN4wPGORCMmuSyQm0VU07Kbx6_qgc-BQRbGZlhp5KQ_kDSlajJGmYMwFeciP",
     "socials": {
-      "github": "https://github.com/arif-dev",
-      "linkedin": "https://linkedin.com/in/arif-rahman",
-      "portfolio": "https://arif.dev"
+      "github": "https://github.com/adsaurnab",
+      "linkedin": "https://linkedin.com/in/aurnab-das",
+      "portfolio": "https://aurnab-das.github.io"
     }
   },
   "theme": {
@@ -41,7 +41,7 @@
       "items": [
         { "name": "Firebase", "level": "Advanced" },
         { "name": "REST APIs", "level": "Advanced" },
-        { "name": "GraphQL", "level": "Intermediate" }
+        { "name": "Laravel", "level": "Intermediate" }
       ]
     },
     {
@@ -50,6 +50,7 @@
         { "name": "Python", "level": "Advanced" },
         { "name": "Selenium", "level": "Advanced" },
         { "name": "Web Scraping", "level": "Advanced" },
+        { "name": "Javascript", "level": "Intermediate" },
         { "name": "CLI Tools", "level": "Intermediate" }
       ]
     },
@@ -80,7 +81,7 @@
         "Reduced load time by 45%",
         "Real-time multi-device sync"
       ],
-      "thumbnail": "",
+      "thumbnail": "https://cdn.pixabay.com/photo/2015/04/19/08/32/flower-729510_1280.jpg",
       "featured": true,
       "details": {
         "overview": "A mobile-first finance management solution designed for scalability and real-time syncing.",
@@ -106,7 +107,7 @@
         ],
         "media": [],
         "links": {
-          "github": "https://github.com/arif-dev/fintrack",
+          "github": "https://github.com/adsaurnab",
           "live": "https://fintrack.app"
         }
       }
@@ -120,7 +121,7 @@
         "Reduced manual work by 70%",
         "Used by multiple organizations"
       ],
-      "thumbnail": "",
+      "thumbnail": "https://static.vecteezy.com/system/resources/thumbnails/060/843/811/small/close-up-of-raindrops-on-leaves-hd-background-luxury-hd-wallpaper-image-trendy-background-illustration-free-photo.jpg",
       "featured": true,
       "details": {
         "overview": "Automation suite for business workflows.",
@@ -144,7 +145,7 @@
         ],
         "media": [],
         "links": {
-          "github": "https://github.com/arif-dev/autotasker"
+          "github": "https://github.com/adsaurnab"
         }
       }
     },
@@ -199,7 +200,7 @@
         "AI-powered health insights"
       ],
       "thumbnail": "",
-      "featured": false,
+      "featured": true,
       "details": {
         "overview": "Cross-platform wellness app connecting wearables with intelligent dashboards.",
         "problem": "Fragmented health data across multiple wearable platforms.",
@@ -223,7 +224,7 @@
         ],
         "media": [],
         "links": {
-          "github": "https://github.com/arif-dev/healthpulse"
+          "github": "https://github.com/adsaurnab"
         }
       }
     },
@@ -262,7 +263,7 @@
         ],
         "media": [],
         "links": {
-          "github": "https://github.com/arif-dev/shiply"
+          "github": "https://github.com/adsaurnab"
         }
       }
     }
