@@ -19,6 +19,33 @@
     "light_mode_start": "06:00",
     "dark_mode_start": "18:00"
   },
+  "fixedDesignPreset": "obsidian",
+  "how_i_work": [
+    {
+      "icon": "architecture_rounded",
+      "title": "Clean Architecture",
+      "desc": "I believe in writing code that is easy to read, test, and maintain long-term.",
+      "colorIdx": 0
+    },
+    {
+      "icon": "speed_rounded",
+      "title": "Performance First",
+      "desc": "Every millisecond matters. I optimize apps for speed, responsiveness, and efficiency.",
+      "colorIdx": 1
+    },
+    {
+      "icon": "people_rounded",
+      "title": "User-Centric",
+      "desc": "I design with real users in mind — intuitive interfaces that solve real problems.",
+      "colorIdx": 2
+    },
+    {
+      "icon": "auto_awesome_rounded",
+      "title": "Continuous Learning",
+      "desc": "Technology evolves fast. I stay ahead by exploring new tools and patterns.",
+      "colorIdx": 3
+    }
+  ],
   "highlights": [
     "6+ Years Experience",
     "20+ Production Apps Delivered",
@@ -30,43 +57,94 @@
     {
       "category": "Mobile Development",
       "items": [
-        { "name": "Flutter", "level": "Expert" },
-        { "name": "Dart", "level": "Expert" },
-        { "name": "Kotlin", "level": "Intermediate" },
-        { "name": "Swift", "level": "Intermediate" }
+        {
+          "name": "Flutter",
+          "level": "Expert"
+        },
+        {
+          "name": "Dart",
+          "level": "Expert"
+        },
+        {
+          "name": "Kotlin",
+          "level": "Intermediate"
+        },
+        {
+          "name": "Swift",
+          "level": "Intermediate"
+        }
       ]
     },
     {
       "category": "Backend & Integration",
       "items": [
-        { "name": "Firebase", "level": "Advanced" },
-        { "name": "REST APIs", "level": "Advanced" },
-        { "name": "Laravel", "level": "Intermediate" }
+        {
+          "name": "Firebase",
+          "level": "Advanced"
+        },
+        {
+          "name": "REST APIs",
+          "level": "Advanced"
+        },
+        {
+          "name": "Laravel",
+          "level": "Intermediate"
+        }
       ]
     },
     {
       "category": "Automation & Scripting",
       "items": [
-        { "name": "Python", "level": "Advanced" },
-        { "name": "Selenium", "level": "Advanced" },
-        { "name": "Web Scraping", "level": "Advanced" },
-        { "name": "Javascript", "level": "Intermediate" },
-        { "name": "CLI Tools", "level": "Intermediate" }
+        {
+          "name": "Python",
+          "level": "Advanced"
+        },
+        {
+          "name": "Selenium",
+          "level": "Advanced"
+        },
+        {
+          "name": "Web Scraping",
+          "level": "Advanced"
+        },
+        {
+          "name": "Javascript",
+          "level": "Intermediate"
+        },
+        {
+          "name": "CLI Tools",
+          "level": "Intermediate"
+        }
       ]
     },
     {
       "category": "Web & Extensions",
       "items": [
-        { "name": "JavaScript", "level": "Advanced" },
-        { "name": "Chrome Extensions", "level": "Advanced" }
+        {
+          "name": "JavaScript",
+          "level": "Advanced"
+        },
+        {
+          "name": "Chrome Extensions",
+          "level": "Advanced"
+        }
       ]
     },
     {
       "category": "Tools & DevOps",
       "items": [
-        { "name": "Git", "level": "Advanced" },
-        { "name": "GitHub Actions", "level": "Intermediate" },
-        { "name": "Docker", "level": "Basic" }
+        {
+          "name": "Git",
+          "level": "Advanced"
+        },
+        {
+          "name": "GitHub Actions",
+          "level": "Intermediate"
+        },
+        {
+          "name": "Docker",
+          "level": "Basic"
+        }
       ]
     }
   ],
@@ -75,7 +153,11 @@
       "id": "fintrack",
       "title": "FinTrack – Personal Finance App",
       "short_description": "Cross-platform app for managing personal finances with real-time analytics.",
-      "tech_stack": ["Flutter", "Firebase", "REST API"],
+      "tech_stack": [
+        "Flutter",
+        "Firebase",
+        "REST API"
+      ],
       "impact": [
         "150K+ active users",
         "Reduced load time by 45%",
@@ -116,7 +198,11 @@
       "id": "autotasker",
       "title": "AutoTasker – Automation Suite",
       "short_description": "Python-based automation tools for repetitive business workflows.",
-      "tech_stack": ["Python", "Selenium", "APIs"],
+      "tech_stack": [
+        "Python",
+        "Selenium",
+        "APIs"
+      ],
       "impact": [
         "Reduced manual work by 70%",
         "Used by multiple organizations"
@@ -153,7 +239,11 @@
       "id": "extendify",
       "title": "Extendify – Chrome Extension Toolkit",
       "short_description": "Productivity browser extension with multi-tab management and automation.",
-      "tech_stack": ["JavaScript", "Chrome Extensions", "APIs"],
+      "tech_stack": [
+        "JavaScript",
+        "Chrome Extensions",
+        "APIs"
+      ],
       "impact": [
         "10K+ installs",
         "4.8 star rating",
@@ -193,7 +283,11 @@
       "id": "healthpulse",
       "title": "HealthPulse – Wellness Tracker",
       "short_description": "Flutter health app with wearable integrations and AI insights.",
-      "tech_stack": ["Flutter", "HealthKit", "Python"],
+      "tech_stack": [
+        "Flutter",
+        "HealthKit",
+        "Python"
+      ],
       "impact": [
         "50K+ downloads",
         "Integrated with 5 wearable brands",
@@ -232,7 +326,11 @@
       "id": "shiply",
       "title": "Shiply – Logistics Platform",
       "short_description": "Real-time shipment tracking app with driver and customer portals.",
-      "tech_stack": ["Flutter", "Firebase", "Google Maps"],
+      "tech_stack": [
+        "Flutter",
+        "Firebase",
+        "Google Maps"
+      ],
       "impact": [
         "Used by 3 logistics companies",
         "Real-time GPS tracking",
@@ -270,29 +368,7 @@
   ],
   "experience": [
     {
-      "company": "TechNova Solutions",
-      "role": "Senior Mobile Engineer",
-      "duration": "2022 - Present",
-      "achievements": [
-        "Led development of 5+ large-scale Flutter applications",
-        "Designed scalable architectures for high-traffic apps",
-        "Mentored junior developers",
-        "Introduced CI/CD pipelines reducing release cycles by 40%"
-      ]
-    },
-    {
-      "company": "SoftEdge Ltd.",
-      "role": "Mobile App Developer",
-      "duration": "2020 - 2022",
-      "achievements": [
-        "Built cross-platform apps using Flutter",
-        "Integrated APIs and payment systems",
-        "Improved app performance by 35%",
-        "Delivered 8 apps for international clients"
-      ]
-    },
-    {
-      "company": "CodeCraft Studio",
+      "company": "CodT Studio",
       "role": "Junior Flutter Developer",
       "duration": "2018 - 2020",
       "achievements": [
@@ -319,6 +395,10 @@
   ],
   "contact": {
     "form_enabled": true,
-    "fields": ["name", "email", "message"]
+    "fields": [
+      "name",
+      "email",
+      "message"
+    ]
   }
 }
